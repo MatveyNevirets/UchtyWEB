@@ -42666,7 +42666,7 @@ return A.i6(!0,A.bF(s,A.cS(A.c([p,B.PQ,m,B.d9,A.iI(!1,B.V,!0,A.bz(20),A.L4(!1,A.
 A.aml.prototype={
 $0(){var s=this.a
 A.hp(s,!1).eb()
-A.a4t(s,"/intro/category?edit=true",t.X)},
+A.a4t(s,"/categories/edit",t.X)},
 $S:0}
 A.amm.prototype={
 $0(){A.hp(this.a,!1).eb()},
